@@ -15,7 +15,7 @@ const NewListProducts = {
                     </div>
                     </div>
                 </div>
-                `)}
+                `).join("")}
         </div>
     </div>
         `;
